@@ -1,2 +1,4 @@
 # Racket
-Racket Projects Repository
+
+### Thanks_For_Looking
+* A simple racket art project
